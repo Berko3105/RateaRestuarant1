@@ -1,0 +1,16 @@
+{
+  "name": "0phb01",
+  "version": "0.0.14",
+  "private": true,
+  "dependencies": {},
+  "description": null,
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
